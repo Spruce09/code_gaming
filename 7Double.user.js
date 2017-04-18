@@ -10,7 +10,7 @@
 // @grant       GM_getResourceURL
 // @grant		GM_xmlhttpRequest
 // @grant       unsafeWindow
-// @version     1.0.0
+// @version     2.0.0
 // @updateURL   https://github.com/Spruce09/code_gaming/raw/master/7Double.user.js
 // ==/UserScript==
 
