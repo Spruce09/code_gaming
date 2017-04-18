@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        7Double
 // @namespace   https://github.com/Spruce09/code_gaming/raw/master/7Double.user.js
-// @description Dice Game Tool
+// @description Dice and Win Game Tool
 // @author      Spruce
 // @include     http://7double.com/*
 // @match       http://7double.com/*
